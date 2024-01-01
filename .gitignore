@@ -1,2 +1,12 @@
+**/*.tgz
+**/Dockerfile
+.DS_Store
+.env
+.eslintcache
+.vscode
+coverage
+
 node_modules
+npm-debug.log
 package
+yarn.lock
